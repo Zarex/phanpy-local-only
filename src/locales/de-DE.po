@@ -676,11 +676,19 @@ msgstr "Öffentlich"
 msgid "Local"
 msgstr "Lokal"
 
+#: src/components/compose.jsx:1252
+msgid "Local Instance Public"
+msgstr "Lokal öffentlich"
+
 #: src/components/compose.jsx:1241
 #: src/components/status.jsx:95
 #: src/pages/settings.jsx:309
 msgid "Unlisted"
 msgstr "Nicht gelistet"
+
+#: src/components/compose.jsx:1260
+msgid "Local Instance Unlisted"
+msgstr "Lokal nicht gelistet"
 
 #: src/components/compose.jsx:1244
 #: src/components/status.jsx:96
